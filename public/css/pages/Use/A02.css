@@ -1,0 +1,8 @@
+.btn {
+    font-size: 15px;
+    padding: 7px 30px;
+  }
+
+#cancel-button, #update-button, #delete-button, #register-button {
+    margin-left: 8px;
+}
